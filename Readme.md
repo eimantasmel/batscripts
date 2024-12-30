@@ -1,0 +1,1 @@
+Put those scripts to one of your user paths directory.
